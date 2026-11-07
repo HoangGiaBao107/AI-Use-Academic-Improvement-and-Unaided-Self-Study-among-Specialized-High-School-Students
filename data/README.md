@@ -1,7 +1,4 @@
 # Input data
-
-Place the original **`data raw eng.csv`** in this folder, or supply its path with `--data`.
-
 The reviewed input has 324 rows and 58 columns. One record lacks all five CAU items. The complete-case analytical cohort contains 323 students. The original CSV is never overwritten.
 
 Expected SHA-256:
