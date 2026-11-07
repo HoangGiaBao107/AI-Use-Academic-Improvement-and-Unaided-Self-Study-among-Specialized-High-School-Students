@@ -1,0 +1,18 @@
+{
+  "input_sha256": "ded803a8b38c1e14b31835655c1ad2b54854e21ec05c191fdd5dd7bead471624",
+  "run_utc": "2026-11-07T15:45:41.469030+00:00",
+  "bootstrap": 2000,
+  "null_draws": 999,
+  "analysis": "Exploratory same-cohort associations; not causal or externally validated.",
+  "production_settings": true,
+  "software": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "sklearn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "statsmodels": "0.14.6",
+    "patsy": "1.0.2"
+  },
+  "python": "3.12.14"
+}
