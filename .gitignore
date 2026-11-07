@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local respondent-level files and caches
+/.work/
+/data/*.csv
+/data raw eng.csv
+/results/private/
+
+# Aggregate table bundles are intentional research outputs
+!/results/downloads/
+!/results/downloads/*.zip
+

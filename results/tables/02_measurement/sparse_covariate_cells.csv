@@ -1,0 +1,17 @@
+A1_label,A3_label,group,n,joint_improvements
+10,0,Good,21,8
+10,0,Lower,6,4
+10,0,Unknown,2,0
+10,1,Good,38,6
+10,1,Lower,4,3
+10,1,Unknown,2,1
+11,0,Good,31,7
+11,0,Lower,4,1
+11,1,Good,54,16
+11,1,Lower,8,4
+12,0,Good,45,17
+12,0,Lower,7,4
+12,0,Unknown,6,1
+12,1,Good,85,26
+12,1,Lower,8,3
+12,1,Unknown,2,0
