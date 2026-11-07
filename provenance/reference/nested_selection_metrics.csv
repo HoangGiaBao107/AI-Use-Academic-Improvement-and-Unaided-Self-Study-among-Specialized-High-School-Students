@@ -1,3 +1,0 @@
-outcome,n,complete,scope,log_loss,Brier,RPS
-N1,323,True,Outer-CV performance of the inner selection procedure; NOT a single final model,0.8165738767063878,0.479743486968541,0.1441850965264363
-N3,323,True,Outer-CV performance of the inner selection procedure; NOT a single final model,1.1135448779065351,0.6729077852789316,0.2256619682097463

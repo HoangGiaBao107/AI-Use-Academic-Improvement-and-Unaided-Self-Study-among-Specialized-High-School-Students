@@ -1,2 +1,0 @@
-test_id,requested,valid,valid_fraction,inference_healthy,beta_CI95_percentile_low,beta_CI95_percentile_high,OR_CI95_percentile_low,OR_CI95_percentile_high,beta_boot_SE,bootstrap_bias,dropped_column_replicates,fallback_BFGS_replicates,status
-H5_N3_primary,2000,2000,1.0,True,-0.2269696598708448,0.4738152846364318,0.7969449613363966,1.6061102863802408,0.1734511829317795,-0.0084348069140132,0,0,Available
