@@ -1,0 +1,11 @@
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.svg text eol=lf
+*.png binary
+*.zip binary
+
+# Computed artifacts are not implementation languages.
+results/** linguist-generated=true
+provenance/reference/** linguist-generated=true
