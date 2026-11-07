@@ -1,0 +1,2 @@
+test_id,requested,valid,observed_LR,p_chisquare_primary,p_MC_secondary,p_MC_failure_bound_low,p_MC_failure_bound_high,MC_SE_approx,healthy,status
+H5_N3_primary,999,999,1.4992866756974763,0.2207811511374588,0.213,0.213,0.213,0.0129472390879291,True,"Conditional plug-in parametric bootstrap; secondary calibration, not replacement p"
