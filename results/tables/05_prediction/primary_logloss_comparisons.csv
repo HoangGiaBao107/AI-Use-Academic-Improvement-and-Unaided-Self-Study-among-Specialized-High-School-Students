@@ -1,0 +1,11 @@
+outcome,family,baseline,comparison,contrast,metric,gain,CI95_low,CI95_high,status
+N3,MN_L2,MQ,MQS,Add core S beyond Q,log_loss,0.00361368385829,-0.020032772245,0.028226885015,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MS,Core S versus Q,log_loss,0.0126767439392,-0.0159697115953,0.0428755550999,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MQS,Add core S beyond Q,log_loss,0.00955490085143,-0.0156164038101,0.033938186542,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MS,Core S versus Q,log_loss,0.0181760401973,-0.0104179481037,0.0471952768336,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MQS,Add core S beyond Q,log_loss,0.0244609699566,-0.00891154711365,0.0603197528911,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MS,Core S versus Q,log_loss,0.0265811590391,-0.0171641728918,0.0695053899445,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MQS,Add core S beyond Q,log_loss,0.035078490794,-0.00124542974574,0.070067792625,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MS,Core S versus Q,log_loss,0.0329385282854,-0.00712129704246,0.074261085762,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MQS,Add core S beyond Q,log_loss,0.0228981861558,-0.0133506134451,0.0582192067458,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MS,Core S versus Q,log_loss,0.0212204219753,-0.0204395079217,0.0601822927432,Conditional bootstrap of fixed OOF losses; no refitting
