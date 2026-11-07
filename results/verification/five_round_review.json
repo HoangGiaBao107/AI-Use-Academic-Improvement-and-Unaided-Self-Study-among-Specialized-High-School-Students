@@ -1,0 +1,2020 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "passed": 56,
+      "total": 56
+    },
+    {
+      "round": 2,
+      "passed": 23,
+      "total": 23
+    },
+    {
+      "round": 3,
+      "passed": 86,
+      "total": 86
+    },
+    {
+      "round": 4,
+      "passed": 49,
+      "total": 49
+    },
+    {
+      "round": 5,
+      "passed": 117,
+      "total": 117
+    }
+  ],
+  "all_passed": true,
+  "passed": 331,
+  "total": 331,
+  "checks": [
+    {
+      "round": 1,
+      "name": "Python syntax phases/01_data_and_codebook.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/01_data_and_codebook.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/02_measurement_and_descriptives.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/02_measurement_and_descriptives.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/03_adjusted_associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/03_adjusted_associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/04_bootstrap_and_null_checks.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/04_bootstrap_and_null_checks.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/05_prediction_and_calibration.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/05_prediction_and_calibration.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/06_interaction_and_school_context.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/06_interaction_and_school_context.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/07_tables_figures_and_downloads.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/07_tables_figures_and_downloads.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax run_pipeline.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source run_pipeline.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax scripts/build_repository_tree.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source scripts/build_repository_tree.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax scripts/validate.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source scripts/validate.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/__init__.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/__init__.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/data.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/data.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/designs.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/designs.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/firth.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/firth.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/interaction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/interaction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/measurement.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/measurement.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/prediction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/prediction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/reporting.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/reporting.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/storage.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/storage.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/uncertainty.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/uncertainty.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax tests/test_numerical_contracts.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source tests/test_numerical_contracts.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Numerical contract tests",
+      "passed": true,
+      "detail": "5 tests"
+    },
+    {
+      "round": 1,
+      "name": "Analysis does not load validation snapshots",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Raw and complete-case dimensions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Input identity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Joint outcome accounting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Full-cohort score SDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Firth OR C1a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent penalized LR C1a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Firth OR C1b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent penalized LR C1b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Firth OR C3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent penalized LR C3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Firth OR C2 full",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent penalized LR C2 full",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Firth OR C2 conditional",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent penalized LR C2 conditional",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Firth OR Component N1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent penalized LR Component N1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Firth OR Component N3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent penalized LR Component N3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent Spearman correlation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent item count AIC3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent item count AIC2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent item count RAI3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 2,
+      "name": "Independent item count RAI5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "cau_sensitivity row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "cau_sensitivity n",
+      "passed": true,
+      "detail": "max absolute difference 0"
+    },
+    {
+      "round": 3,
+      "name": "cau_sensitivity p_raw",
+      "passed": true,
+      "detail": "max absolute difference 4.93e-13"
+    },
+    {
+      "round": 3,
+      "name": "cau_sensitivity OR_per_SD",
+      "passed": true,
+      "detail": "max absolute difference 4.78e-12"
+    },
+    {
+      "round": 3,
+      "name": "cau_sensitivity OR_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 4.99e-12"
+    },
+    {
+      "round": 3,
+      "name": "cau_sensitivity OR_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.98e-12"
+    },
+    {
+      "round": 3,
+      "name": "cau_sensitivity q_BH_80",
+      "passed": true,
+      "detail": "max absolute difference 4.59e-13"
+    },
+    {
+      "round": 3,
+      "name": "c2_sensitivity row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "c2_sensitivity n",
+      "passed": true,
+      "detail": "max absolute difference 0"
+    },
+    {
+      "round": 3,
+      "name": "c2_sensitivity p_raw",
+      "passed": true,
+      "detail": "max absolute difference 3.9e-13"
+    },
+    {
+      "round": 3,
+      "name": "c2_sensitivity OR_per_SD",
+      "passed": true,
+      "detail": "max absolute difference 4.56e-12"
+    },
+    {
+      "round": 3,
+      "name": "c2_sensitivity OR_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 4.78e-12"
+    },
+    {
+      "round": 3,
+      "name": "c2_sensitivity OR_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.65e-12"
+    },
+    {
+      "round": 3,
+      "name": "c2_sensitivity q_BH_20",
+      "passed": true,
+      "detail": "max absolute difference 3.9e-13"
+    },
+    {
+      "round": 3,
+      "name": "c3_sensitivity row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "c3_sensitivity n",
+      "passed": true,
+      "detail": "max absolute difference 0"
+    },
+    {
+      "round": 3,
+      "name": "c3_sensitivity p_raw",
+      "passed": true,
+      "detail": "max absolute difference 3.5e-14"
+    },
+    {
+      "round": 3,
+      "name": "c3_sensitivity OR_per_SD",
+      "passed": true,
+      "detail": "max absolute difference 4.96e-13"
+    },
+    {
+      "round": 3,
+      "name": "c3_sensitivity OR_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 3.75e-13"
+    },
+    {
+      "round": 3,
+      "name": "c3_sensitivity OR_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.38e-13"
+    },
+    {
+      "round": 3,
+      "name": "c3_sensitivity q_BH_10",
+      "passed": true,
+      "detail": "max absolute difference 4.37e-14"
+    },
+    {
+      "round": 3,
+      "name": "C3 components row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C3 components OR_per_SD",
+      "passed": true,
+      "detail": "max absolute difference 2.92e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 components p_raw",
+      "passed": true,
+      "detail": "max absolute difference 3.82e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 components OR_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 1.72e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 components OR_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.99e-12"
+    },
+    {
+      "round": 3,
+      "name": "C3 components q_BH_2",
+      "passed": true,
+      "detail": "max absolute difference 3.82e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 components q_BH_156",
+      "passed": true,
+      "detail": "max absolute difference 2.03e-13"
+    },
+    {
+      "round": 3,
+      "name": "Reliability row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Reliability alpha",
+      "passed": true,
+      "detail": "max absolute difference 4.97e-13"
+    },
+    {
+      "round": 3,
+      "name": "Reliability alpha_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 4.23e-13"
+    },
+    {
+      "round": 3,
+      "name": "Reliability alpha_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.48e-13"
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap difference_pp_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 1.53e-12"
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap difference_pp_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.51e-11"
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap valid",
+      "passed": true,
+      "detail": "max absolute difference 0"
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap p_low_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 3.41e-13"
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap p_low_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.32e-13"
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap p_high_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 2.23e-13"
+    },
+    {
+      "round": 3,
+      "name": "CAU bootstrap p_high_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.71e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap difference_pp_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 4.73e-11"
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap difference_pp_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.54e-12"
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap valid",
+      "passed": true,
+      "detail": "max absolute difference 0"
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap p_low_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 4.6e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap p_low_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.99e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap p_high_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 4.57e-13"
+    },
+    {
+      "round": 3,
+      "name": "C3 bootstrap p_high_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.34e-13"
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_all p_low low",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_all p_low high",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_all p_high low",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_all p_high high",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_all difference_pp low",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_all difference_pp high",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_conditional p_low low",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_conditional p_low high",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_conditional p_high low",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_conditional p_high high",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_conditional difference_pp low",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C2 bootstrap P_conditional difference_pp high",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "All predictive losses row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "All predictive losses gain",
+      "passed": true,
+      "detail": "max absolute difference 1.6e-07"
+    },
+    {
+      "round": 3,
+      "name": "All predictive losses CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 2.51e-07"
+    },
+    {
+      "round": 3,
+      "name": "All predictive losses CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 1.19e-07"
+    },
+    {
+      "round": 3,
+      "name": "Ten primary and 45 broad intervals include zero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Nested selection row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Nested selection log_loss",
+      "passed": true,
+      "detail": "max absolute difference 1.73e-10"
+    },
+    {
+      "round": 3,
+      "name": "Nested selection Brier",
+      "passed": true,
+      "detail": "max absolute difference 1.63e-10"
+    },
+    {
+      "round": 3,
+      "name": "Nested selection RPS",
+      "passed": true,
+      "detail": "max absolute difference 5.83e-11"
+    },
+    {
+      "round": 3,
+      "name": "Nested winners match archived selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Separate calibration row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Separate calibration calibration_intercept",
+      "passed": true,
+      "detail": "max absolute difference 2.39e-13"
+    },
+    {
+      "round": 3,
+      "name": "Separate calibration calibration_slope",
+      "passed": true,
+      "detail": "max absolute difference 5.18e-12"
+    },
+    {
+      "round": 3,
+      "name": "Continuous interaction row coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Continuous interaction interaction_OR",
+      "passed": true,
+      "detail": "max absolute difference 6.65e-09"
+    },
+    {
+      "round": 3,
+      "name": "Continuous interaction OR_CI95_low",
+      "passed": true,
+      "detail": "max absolute difference 7.05e-08"
+    },
+    {
+      "round": 3,
+      "name": "Continuous interaction OR_CI95_high",
+      "passed": true,
+      "detail": "max absolute difference 4.5e-08"
+    },
+    {
+      "round": 3,
+      "name": "Continuous interaction p_raw",
+      "passed": true,
+      "detail": "max absolute difference 4.9e-13"
+    },
+    {
+      "round": 3,
+      "name": "Continuous interaction q_BH_10",
+      "passed": true,
+      "detail": "max absolute difference 4.65e-13"
+    },
+    {
+      "round": 3,
+      "name": "Interaction bootstrap interval",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Interaction null Monte Carlo result",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "C3 null Monte Carlo result",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "All 10 C3 contrasts negative with bootstrap intervals below zero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Independent historical BH 144",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Independent historical BH 154",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 3,
+      "name": "Independent historical BH 156",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh full-pipeline process",
+      "passed": true,
+      "detail": "See local .work/fresh_replay.log"
+    },
+    {
+      "round": 4,
+      "name": "Fresh table coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/01_data/english_item_dictionary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/01_data/export_missingness.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/01_data/participant_flow.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/01_data/quality_flags.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/cau_aor_score_pairs.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/descriptive_correlations.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/joint_decline.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/joint_improvement.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/outcome_distributions.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/sample_distributions.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/scale_reliability.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/school_classroom_items.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/02_measurement/sparse_covariate_cells.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/03_associations/c2_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/03_associations/c3_coefficients.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/03_associations/c3_components.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/03_associations/c3_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/03_associations/cau_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/03_associations/main_models.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/03_associations/multiplicity_registry.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/04_uncertainty/bootstrap_intervals.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/04_uncertainty/c3_parametric_null.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/04_uncertainty/cau_aor_correlation.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/calibration.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/calibration_bins.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/candidate_metrics.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/fit_health_summary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/fold_audit.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/nested_leakage_audit.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/nested_selected_candidates.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/nested_selection_metrics.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/paired_predictive_gains.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/05_prediction/primary_logloss_comparisons.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/06_interaction_context/continuous_interaction_tests.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/06_interaction_context/interaction_resampling.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/06_interaction_context/school_classroom_context.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/07_report_outputs/component_results.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/07_report_outputs/evidence_summary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Fresh replay tables/07_report_outputs/main_results.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Deterministic figure 03_outcome_distributions.svg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Deterministic figure 05_c3_sensitivity.svg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Deterministic figure 02_main_probability_contrasts.svg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Deterministic figure 07_school_context.svg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Deterministic figure 04_cau_aor_score_pairs.svg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Deterministic figure 06_oof_calibration.svg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Deterministic figure 01_participant_flow.svg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 4,
+      "name": "Production replay settings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP 01_data_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP 02_measurement_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP 03_associations_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP 04_uncertainty_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP 05_prediction_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP 06_interaction_context_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP 07_report_outputs_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Download ZIP all_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Exactly seven figure pairs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/03_associations/c3_components.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/03_associations/multiplicity_registry.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/03_associations/c2_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/03_associations/c3_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/03_associations/cau_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/03_associations/c3_coefficients.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/03_associations/main_models.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/04_uncertainty/bootstrap_intervals.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/04_uncertainty/cau_aor_correlation.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/04_uncertainty/c3_parametric_null.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/01_data/english_item_dictionary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/01_data/participant_flow.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/01_data/export_missingness.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/01_data/quality_flags.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/joint_decline.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/descriptive_correlations.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/scale_reliability.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/school_classroom_items.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/sample_distributions.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/cau_aor_score_pairs.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/outcome_distributions.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/joint_improvement.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/02_measurement/sparse_covariate_cells.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/06_interaction_context/continuous_interaction_tests.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/06_interaction_context/school_classroom_context.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/06_interaction_context/interaction_resampling.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/fit_health_summary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/nested_selection_metrics.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/fold_audit.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/primary_logloss_comparisons.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/calibration.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/nested_leakage_audit.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/candidate_metrics.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/nested_selected_candidates.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/calibration_bins.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/05_prediction/paired_predictive_gains.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/07_report_outputs/evidence_summary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/07_report_outputs/main_results.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Aggregate-only columns results/tables/07_report_outputs/component_results.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Reviewed CSV allowed; extra exports and private caches excluded",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Phase downloads explicitly retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Publication contains no HTML export",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Required publication file README.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Required publication file LICENSE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Required publication file CITATION.cff",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Required publication file requirements.txt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Required publication file docs/CLAIM_TRACEABILITY.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Required publication file docs/REPOSITORY_TREE.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Required publication file notebooks/reproduce_report.ipynb",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link results/figures/02_main_probability_contrasts.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link notebooks/reproduce_report.ipynb",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link results/tables/07_report_outputs/main_results.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link results/tables/07_report_outputs/component_results.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link results/index.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link results/downloads/all_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link results/figures",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link results/verification/five_round_review.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link docs/CLAIM_TRACEABILITY.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link docs/REPOSITORY_TREE.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link docs/CLAIM_TRACEABILITY.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link LICENSE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/all_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/01_data_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/01_data/english_item_dictionary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/01_data/export_missingness.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/01_data/participant_flow.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/01_data/quality_flags.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/02_measurement_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/cau_aor_score_pairs.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/descriptive_correlations.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/joint_decline.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/joint_improvement.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/outcome_distributions.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/sample_distributions.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/scale_reliability.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/school_classroom_items.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/02_measurement/sparse_covariate_cells.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/03_associations_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/03_associations/c2_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/03_associations/c3_coefficients.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/03_associations/c3_components.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/03_associations/c3_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/03_associations/cau_sensitivity.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/03_associations/main_models.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/03_associations/multiplicity_registry.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/04_uncertainty_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/04_uncertainty/bootstrap_intervals.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/04_uncertainty/c3_parametric_null.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/04_uncertainty/cau_aor_correlation.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/05_prediction_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/calibration.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/calibration_bins.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/candidate_metrics.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/fit_health_summary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/fold_audit.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/nested_leakage_audit.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/nested_selected_candidates.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/nested_selection_metrics.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/paired_predictive_gains.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/05_prediction/primary_logloss_comparisons.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/06_interaction_context_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/06_interaction_context/continuous_interaction_tests.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/06_interaction_context/interaction_resampling.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/06_interaction_context/school_classroom_context.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link downloads/07_report_outputs_tables.zip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/07_report_outputs/component_results.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/07_report_outputs/evidence_summary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link tables/07_report_outputs/main_results.csv",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
