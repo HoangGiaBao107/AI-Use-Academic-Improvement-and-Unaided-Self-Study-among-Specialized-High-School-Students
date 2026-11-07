@@ -22,350 +22,14 @@
     },
     {
       "round": 5,
-      "passed": 119,
-      "total": 119
+      "passed": 121,
+      "total": 121
     }
   ],
   "all_passed": true,
-  "passed": 333,
-  "total": 333,
+  "passed": 335,
+  "total": 335,
   "checks": [
-    {
-      "round": 1,
-      "name": "Python syntax phases/01_data_and_codebook.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source phases/01_data_and_codebook.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax phases/02_measurement_and_descriptives.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source phases/02_measurement_and_descriptives.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax phases/03_adjusted_associations.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source phases/03_adjusted_associations.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax phases/04_bootstrap_and_null_checks.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source phases/04_bootstrap_and_null_checks.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax phases/05_prediction_and_calibration.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source phases/05_prediction_and_calibration.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax phases/06_interaction_and_school_context.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source phases/06_interaction_and_school_context.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax phases/07_tables_figures_and_downloads.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source phases/07_tables_figures_and_downloads.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax run_pipeline.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source run_pipeline.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax scripts/build_repository_tree.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source scripts/build_repository_tree.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax scripts/validate.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source scripts/validate.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/__init__.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/__init__.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/associations.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/associations.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/data.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/data.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/designs.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/designs.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/firth.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/firth.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/interaction.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/interaction.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/measurement.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/measurement.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/prediction.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/prediction.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/reporting.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/reporting.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/storage.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/storage.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax src/ai_learning/uncertainty.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source src/ai_learning/uncertainty.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Python syntax tests/test_numerical_contracts.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "English source tests/test_numerical_contracts.py",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 1",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 3",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 5",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 7",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 10",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 13",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 16",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 19",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 22",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Notebook code cell 25",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "round": 1,
-      "name": "Numerical contract tests",
-      "passed": true,
-      "detail": "5 tests"
-    },
-    {
-      "round": 1,
-      "name": "Analysis does not load validation snapshots",
-      "passed": true,
-      "detail": ""
-    },
     {
       "round": 2,
       "name": "Raw and complete-case dimensions",
@@ -1315,6 +979,342 @@
       "detail": ""
     },
     {
+      "round": 1,
+      "name": "Python syntax phases/01_data_and_codebook.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/01_data_and_codebook.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/02_measurement_and_descriptives.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/02_measurement_and_descriptives.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/03_adjusted_associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/03_adjusted_associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/04_bootstrap_and_null_checks.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/04_bootstrap_and_null_checks.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/05_prediction_and_calibration.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/05_prediction_and_calibration.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/06_interaction_and_school_context.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/06_interaction_and_school_context.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax phases/07_tables_figures_and_downloads.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source phases/07_tables_figures_and_downloads.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax run_pipeline.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source run_pipeline.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax scripts/build_repository_tree.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source scripts/build_repository_tree.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax scripts/validate.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source scripts/validate.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/__init__.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/__init__.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/associations.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/data.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/data.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/designs.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/designs.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/firth.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/firth.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/interaction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/interaction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/measurement.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/measurement.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/prediction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/prediction.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/reporting.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/reporting.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/storage.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/storage.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax src/ai_learning/uncertainty.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source src/ai_learning/uncertainty.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Python syntax tests/test_numerical_contracts.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "English source tests/test_numerical_contracts.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Notebook code cell 25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 1,
+      "name": "Numerical contract tests",
+      "passed": true,
+      "detail": "5 tests"
+    },
+    {
+      "round": 1,
+      "name": "Analysis does not load validation snapshots",
+      "passed": true,
+      "detail": ""
+    },
+    {
       "round": 5,
       "name": "Download ZIP 01_data_tables.zip",
       "passed": true,
@@ -1604,7 +1604,7 @@
     },
     {
       "round": 5,
-      "name": "Raw CSV and private caches excluded from Git",
+      "name": "Reviewed CSV allowed; extra exports and private caches excluded",
       "passed": true,
       "detail": ""
     },
@@ -1616,7 +1616,7 @@
     },
     {
       "round": 5,
-      "name": "No manuscript PDF uploaded before author provides it",
+      "name": "Optional manuscript PDFs are nonempty",
       "passed": true,
       "detail": ""
     },
@@ -1665,6 +1665,12 @@
     {
       "round": 5,
       "name": "Required publication file report/README.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link report/",
       "passed": true,
       "detail": ""
     },
@@ -1737,6 +1743,12 @@
     {
       "round": 5,
       "name": "Local link docs/CLAIM_TRACEABILITY.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "round": 5,
+      "name": "Local link report/",
       "passed": true,
       "detail": ""
     },

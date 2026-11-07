@@ -1,10 +1,11 @@
 # Repository structure
 
-Tracked research code, provenance, and aggregate outputs. The manuscript is added separately by the author.
+Tracked research input, code, provenance, and aggregate outputs. The final manuscript belongs in `report/`.
 
 ```text
 ai-learning-study/
   data/
+    data raw eng.csv
     README.md
   docs/
     CLAIM_TRACEABILITY.md
@@ -153,4 +154,4 @@ ai-learning-study/
   run_pipeline.py
 ```
 
-Local-only input: `data/data raw eng.csv`. Private intermediates and validation replay files live in `.work/`.
+Included input: `data/data raw eng.csv`. Generated response-level intermediates and validation replay files remain local in `.work/`.

@@ -219,9 +219,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Local respondent-level files and caches
+# Additional data exports and local caches
 /.work/
 /data/*.csv
+!/data/data raw eng.csv
 /data raw eng.csv
 /results/private/
 

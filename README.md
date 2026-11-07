@@ -5,7 +5,28 @@
 **Author:** Hoàng Gia Bảo  
 **Contact:** hgbao0907@gmail.com
 
-This repository contains the English-language code, recomputed aggregate results, and reproducibility checks supporting the science report. The manuscript will be uploaded separately by the author. The study asks how constructive AI use and AI overreliance relate to reported academic improvement and improvement in unaided self-study.
+This repository contains the reviewed English survey export, English-language code, recomputed aggregate results, and reproducibility checks supporting the science report. The study asks how constructive AI use and AI overreliance relate to reported academic improvement and improvement in unaided self-study. The final manuscript belongs in the [report folder](report/).
+
+## Repository guide
+
+| Folder | Purpose | Manual completion needed? |
+|---|---|---|
+| `data/` | Reviewed input CSV and its identity/access notes. | The reviewed CSV is already included. |
+| `phases/` | Seven analysis entry points, run in order. | No. |
+| `src/ai_learning/` | Shared statistical methods and reporting code used by every phase. | No. |
+| `notebooks/` | Optional Jupyter/Colab interface to the same pipeline. | No. |
+| `results/` | Recomputed CSV tables, figures, downloads, manifests, and verification reports. | No; outputs are already included. |
+| `provenance/` | Earlier p-values needed for historical BH-FDR scopes, plus validation reference snapshots. | No; keep these files for traceability. |
+| `tests/` | Numerical checks for estimators and calculations. | No. |
+| `scripts/` | Reproducibility validation and directory-map maintenance. | No. |
+| `docs/` | Claim-to-code map and complete directory structure. | No. |
+| `report/` | Final science report and optional LaTeX source. | Add `science_report.pdf`; LaTeX is optional. |
+
+## Author completion checklist
+
+- The reviewed `data/data raw eng.csv`, analysis code, computed results, and verification evidence are present. No phase file or results table requires manual completion.
+- Before submitting the repository with the study, add the final PDF as `report/science_report.pdf`. Its LaTeX source may be added as `report/science_report.tex`.
+- Installation and input-selection instructions below are for readers rerunning the analysis. They are not outstanding upload tasks. Running the pipeline again is optional when inspecting the included results.
 
 ## Research setting
 
@@ -42,7 +63,7 @@ Activate the environment with `source .venv/bin/activate` on macOS/Linux, or `.v
 
 ```bash
 python -m pip install -r requirements.txt
-# Place the reviewed CSV at data/data raw eng.csv.
+# The reviewed CSV is included at data/data raw eng.csv.
 python run_pipeline.py --data "data/data raw eng.csv" --workers 4
 python scripts/validate.py --data "data/data raw eng.csv" --full
 ```
@@ -106,10 +127,10 @@ Five verification rounds cover source integrity, independent raw-data checks and
 
 ## Adding the manuscript
 
-Upload the final science report to `report/science_report.pdf` and optionally its LaTeX source to `report/science_report.tex`. Update the manuscript link in `report/README.md`. No manuscript PDF is included in this initial code release.
+The [report folder](report/) is the manuscript location. Use `report/science_report.pdf` for the final PDF and optionally `report/science_report.tex` for its LaTeX source. The code and results can be used independently of those manuscript files.
 
 ## Citation, assistance, and license
 
 Use the repository's `CITATION.cff` to cite this software. ChatGPT assisted with code development, computational checks, and documentation; this assistance is also disclosed in the manuscript. The author is responsible for the research and interpretation.
 
-See [LICENSE](LICENSE) for the MIT software license. Respondent-level data are not distributed with the software. The manuscript is maintained separately.
+See [LICENSE](LICENSE) for the MIT software license. The reviewed survey export is included in `data/`; individual fitted predictions and other generated response-level intermediates remain local in `.work/`. The manuscript is maintained separately in `report/`.

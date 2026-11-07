@@ -186,9 +186,9 @@ def round_package():
         columns=pd.read_csv(p,nrows=0).columns
         check(5,'Aggregate-only columns '+str(p.relative_to(ROOT)),not any(c.lower() in ['respondent_id','student_id','email','name','y_true','p_0','p_1','p_2'] for c in columns))
     ignored=(ROOT/'.gitignore').read_text()
-    check(5,'Raw CSV and private caches excluded from Git','/data/*.csv' in ignored and '/data raw eng.csv' in ignored and '/.work/' in ignored)
+    check(5,'Reviewed CSV allowed; extra exports and private caches excluded','/data/*.csv' in ignored and '!/data/data raw eng.csv' in ignored and '/data raw eng.csv' in ignored and '/.work/' in ignored)
     check(5,'Phase downloads explicitly retained','!/results/downloads/' in ignored)
-    check(5,'No manuscript PDF uploaded before author provides it',not list((ROOT/'report').glob('*.pdf')))
+    check(5,'Optional manuscript PDFs are nonempty',all(p.stat().st_size>0 for p in (ROOT/'report').glob('*.pdf')))
     files=['README.md','LICENSE','CITATION.cff','requirements.txt','docs/CLAIM_TRACEABILITY.md','docs/REPOSITORY_TREE.md','notebooks/reproduce_report.ipynb','report/README.md']
     for name in files:check(5,'Required publication file '+name,(ROOT/name).is_file())
     # Local relative links are checked after removing code fences and inline code.

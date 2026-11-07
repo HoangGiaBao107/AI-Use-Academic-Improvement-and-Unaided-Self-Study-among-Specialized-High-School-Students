@@ -1,4 +1,7 @@
 # Input data
+
+The reviewed **`data raw eng.csv`** is already included in this folder. Cloning or downloading the complete repository includes this input; no second upload is required. The `--data` option is only needed to select a different local file location.
+
 The reviewed input has 324 rows and 58 columns. One record lacks all five CAU items. The complete-case analytical cohort contains 323 students. The original CSV is never overwritten.
 
 Expected SHA-256:
@@ -11,7 +14,7 @@ The pipeline stops if the bytes do not match this reviewed version. Copy the ori
 
 ## Access and scope
 
-Respondent-level survey data are not distributed in this public repository. Authorized users can obtain the input from the study author. Git ignores this CSV and all row-level intermediates in `.work/`. Published results are aggregate tables, resampling summaries, and figures.
+The study author has included the reviewed survey export in this public repository. Only this explicitly named input is allowed by the data-folder Git exception; additional CSV exports and generated row-level intermediates in `.work/` remain ignored. Published analysis outputs under `results/` are aggregate tables, resampling summaries, and figures.
 
 The organizer reported 522 invitations and 358 responses. Earlier qualitative exclusions were deleted before the retained export was finalized. This repository reproduces analysis from the retained English export; it cannot reconstruct the original 358 submissions or their individual exclusion reasons.
 

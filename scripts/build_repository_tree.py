@@ -14,5 +14,5 @@ def tree(folder,depth=0):
 
 if __name__=='__main__':
     target=ROOT/'docs/REPOSITORY_TREE.md'
-    target.write_text('# Repository structure\n\nTracked research code, provenance, and aggregate outputs. The manuscript is added separately by the author.\n\n```text\n'+
-                      'ai-learning-study/\n'+'\n'.join(tree(ROOT,1))+'\n```\n\nLocal-only input: `data/data raw eng.csv`. Private intermediates and validation replay files live in `.work/`.\n')
+    target.write_text('# Repository structure\n\nTracked research input, code, provenance, and aggregate outputs. The final manuscript belongs in `report/`.\n\n```text\n'+
+                      'ai-learning-study/\n'+'\n'.join(tree(ROOT,1))+'\n```\n\nIncluded input: `data/data raw eng.csv`. Generated response-level intermediates and validation replay files remain local in `.work/`.\n')
