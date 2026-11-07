@@ -1,0 +1,16 @@
+item,n,agree_n,agree_percent,neutral_n,neutral_percent,disagree_n,disagree_percent,wording
+TAG1,323,225,69.6594427245,68,21.0526315789,30,9.28792569659,Agreement: [TAG1. Teachers clearly explain when I SHOULD and SHOULD NOT use AI.]
+TAG2,323,209,64.7058823529,68,21.0526315789,46,14.2414860681,Agreement: [TAG2. Teachers show how to verify the accuracy of information provided by AI.]
+TAG3,323,232,71.826625387,57,17.6470588235,34,10.5263157895,Agreement: [TAG3. Teachers show how to use AI to support thinking rather than to get answers.]
+TAG4,323,212,65.6346749226,70,21.6718266254,41,12.693498452,Agreement: [TAG4. Teachers give concrete examples or models of effective AI use.]
+TAG5,323,197,60.9907120743,80,24.7678018576,46,14.2414860681,"Agreement: [TAG5. When needed, I can freely discuss with teachers how to use AI for learning.]"
+AIC1,323,192,59.4427244582,88,27.2445820433,43,13.3126934985,Agreement: [AIC1. The school has clear rules or guidance on using AI for learning.]
+AIC2,323,132,40.866873065,131,40.5572755418,60,18.5758513932,Agreement: [AIC2. Different teachers at my school have a CONSISTENT view on using AI.]
+AIC3,323,234,72.4458204334,72,22.2910216718,17,5.26315789474,Agreement: [AIC3. The school encourages students to use AI responsibly.]
+AIC4,323,231,71.5170278638,74,22.9102167183,18,5.57275541796,"Agreement: [AIC4. In my class/grade, students feel comfortable sharing how they use AI.]"
+AIC5,323,191,59.133126935,86,26.6253869969,46,14.2414860681,Agreement: [AIC5. The school organizes activities that help students understand AI.]
+RAI1,323,159,49.226006192,123,38.080495356,41,12.693498452,Agreement: [RAI1. Students in my grade/class usually follow teachers' rules on AI use.]
+RAI2,323,122,37.7708978328,124,38.3900928793,77,23.8390092879,"Agreement: [RAI2. In my grade/class, copying AI-generated content verbatim for submission is rare.]"
+RAI3,323,110,34.0557275542,116,35.9133126935,97,30.0309597523,Agreement: [RAI3. Students in my grade/class usually state clearly when they used AI in their work.]
+RAI4,323,256,79.2569659443,51,15.7894736842,16,4.95356037152,"Agreement: [RAI4. Personally, I always re-check AI-generated content before using it.]"
+RAI5,323,244,75.5417956656,60,18.5758513932,19,5.88235294118,"Agreement: [RAI5. Personally, I avoid using AI in assessments where it is prohibited.]"
