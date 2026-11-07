@@ -1,0 +1,136 @@
+outcome,family,baseline,comparison,contrast,metric,gain,CI95_low,CI95_high,status
+N3,MN_L2,MQ,MQS,Add core S beyond Q,log_loss,0.00361368385829,-0.020032772245,0.028226885015,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MQS,Add core S beyond Q,Brier,0.0034501579756,-0.0104538900902,0.0187389401783,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MQS,Add core S beyond Q,RPS,0.00309572298244,-0.00415567348096,0.0102597957445,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MS,MQS,Add Q beyond core S,log_loss,-0.00906306008089,-0.0289743857896,0.0107343365345,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MS,MQS,Add Q beyond core S,Brier,-0.00430398107426,-0.0179899125778,0.00853408439179,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MS,MQS,Add Q beyond core S,RPS,-0.00163596453234,-0.00641133009031,0.00315066553509,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MS,Core S versus Q,log_loss,0.0126767439392,-0.0159697115953,0.0428755550999,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MS,Core S versus Q,Brier,0.00775413904986,-0.0120154156984,0.0283616450927,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MS,Core S versus Q,RPS,0.00473168751478,-0.00354894433465,0.0133441755209,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MQSplus,Add extended S beyond Q,log_loss,-0.00507863224265,-0.0318636679365,0.0216999339726,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MQSplus,Add extended S beyond Q,Brier,-0.00211460215815,-0.0195369305976,0.0157054327599,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MQSplus,Add extended S beyond Q,RPS,0.00178384408309,-0.00673126720155,0.0100643311467,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MSplus,MQSplus,Add Q beyond extended S,log_loss,-0.00849246352176,-0.0299466202909,0.0127922898382,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MSplus,MQSplus,Add Q beyond extended S,Brier,-0.0039669520007,-0.017439180744,0.00915748309753,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MSplus,MQSplus,Add Q beyond extended S,RPS,-0.00132899776246,-0.006445588566,0.00365284148836,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MSplus,Extended S versus Q,log_loss,0.00341383127911,-0.0303613596607,0.0364060252539,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MSplus,Extended S versus Q,Brier,0.00185234984255,-0.0207083631596,0.0243844888262,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MQ,MSplus,Extended S versus Q,RPS,0.00311284184555,-0.00653809743302,0.0125442058229,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLEQ,MLEQSplus,Add extended S given L/E/Q,log_loss,-0.0142139616987,-0.0437351745286,0.0143338377948,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLEQ,MLEQSplus,Add extended S given L/E/Q,Brier,-0.0063339890929,-0.0232244776221,0.00941521614887,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLEQ,MLEQSplus,Add extended S given L/E/Q,RPS,0.000392917272422,-0.00684824810244,0.00765392149814,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLESplus,MLEQSplus,Add Q given L/E/S,log_loss,-0.0153505038868,-0.0371816464294,0.00733518440705,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLESplus,MLEQSplus,Add Q given L/E/S,Brier,-0.00745305014093,-0.0212625351903,0.00648208630982,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLESplus,MLEQSplus,Add Q given L/E/S,RPS,-0.00249498008682,-0.00808396339118,0.00288913986062,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLEQ,MLESplus,Extended S versus Q given L/E,log_loss,0.00113654218811,-0.0312384267731,0.0342550756623,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLEQ,MLESplus,Extended S versus Q given L/E,Brier,0.00111906104804,-0.0190680424139,0.0212674181867,Conditional bootstrap of fixed OOF losses; no refitting
+N3,MN_L2,MLEQ,MLESplus,Extended S versus Q given L/E,RPS,0.00288789735924,-0.00600746084292,0.0120375019006,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MQS,Add core S beyond Q,log_loss,0.00955490085143,-0.0156164038101,0.033938186542,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MQS,Add core S beyond Q,Brier,0.00575175397846,-0.0105601594507,0.0211161012359,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MQS,Add core S beyond Q,RPS,0.00318927702019,-0.00451440851781,0.0107223581029,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MS,MQS,Add Q beyond core S,log_loss,-0.00862113934586,-0.0256451034318,0.00729049985642,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MS,MQS,Add Q beyond core S,Brier,-0.00564070006092,-0.01591750023,0.00480757807749,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MS,MQS,Add Q beyond core S,RPS,-0.00225935543288,-0.00723701212403,0.00256221943443,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MS,Core S versus Q,log_loss,0.0181760401973,-0.0104179481037,0.0471952768336,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MS,Core S versus Q,Brier,0.0113924540394,-0.00719502286441,0.0296283793371,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MS,Core S versus Q,RPS,0.00544863245307,-0.0040452010618,0.0139518757301,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MQSplus,Add extended S beyond Q,log_loss,0.00709082525547,-0.0228977139422,0.0375322936445,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MQSplus,Add extended S beyond Q,Brier,0.00527080571876,-0.0156643097159,0.0233736611254,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MQSplus,Add extended S beyond Q,RPS,0.00291534341067,-0.00673708404556,0.0126632786654,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MSplus,MQSplus,Add Q beyond extended S,log_loss,-0.00723779758114,-0.0245727119278,0.0100287967487,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MSplus,MQSplus,Add Q beyond extended S,Brier,-0.00413177438824,-0.0156152073614,0.00746994317791,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MSplus,MQSplus,Add Q beyond extended S,RPS,-0.00155806320058,-0.00688215704111,0.00375000704106,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MSplus,Extended S versus Q,log_loss,0.0143286228366,-0.0188966433176,0.0493934871249,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MSplus,Extended S versus Q,Brier,0.009402580107,-0.0107249300045,0.0314415666687,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MQ,MSplus,Extended S versus Q,RPS,0.00447340661126,-0.00603271944806,0.014963278024,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLEQ,MLEQSplus,Add extended S given L/E/Q,log_loss,0.00220401045823,-0.0214318069136,0.0249469771368,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLEQ,MLEQSplus,Add extended S given L/E/Q,Brier,0.00141200622415,-0.01407033736,0.0166396208865,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLEQ,MLEQSplus,Add extended S given L/E/Q,RPS,0.00157053988819,-0.00557419586115,0.00885268305092,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLESplus,MLEQSplus,Add Q given L/E/S,log_loss,-0.0116774566476,-0.0305331383053,0.00710628663642,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLESplus,MLEQSplus,Add Q given L/E/S,Brier,-0.00646568862926,-0.0194872813659,0.00572347932056,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLESplus,MLEQSplus,Add Q given L/E/S,RPS,-0.00256149767941,-0.00814060961713,0.00275604797169,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLEQ,MLESplus,Extended S versus Q given L/E,log_loss,0.0138814671058,-0.0152660704011,0.0441497342384,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLEQ,MLESplus,Extended S versus Q given L/E,Brier,0.0078776948534,-0.00995064774954,0.0268114604176,Conditional bootstrap of fixed OOF losses; no refitting
+N3,PO,MLEQ,MLESplus,Extended S versus Q given L/E,RPS,0.0041320375676,-0.00451690032038,0.0126946387112,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MQS,Add core S beyond Q,log_loss,0.0244609699566,-0.00891154711365,0.0603197528911,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MQS,Add core S beyond Q,Brier,0.0194002133764,-0.00173994417365,0.0388719697593,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MQS,Add core S beyond Q,RPS,0.00794492331191,0.000148353407455,0.0152707478321,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MS,MQS,Add Q beyond core S,log_loss,-0.00212018908244,-0.0273118444992,0.023241479839,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MS,MQS,Add Q beyond core S,Brier,-0.000466431840228,-0.0178877179174,0.0160316335223,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MS,MQS,Add Q beyond core S,RPS,-0.000315087505191,-0.00520921036881,0.00452300775778,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MS,Core S versus Q,log_loss,0.0265811590391,-0.0171641728918,0.0695053899445,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MS,Core S versus Q,Brier,0.0198666452166,-0.00779865734009,0.045911007952,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MS,Core S versus Q,RPS,0.0082600108171,-0.000718717968175,0.0173299791496,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MQSplus,Add extended S beyond Q,log_loss,0.0164599171974,-0.0208045813918,0.0517620570414,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MQSplus,Add extended S beyond Q,Brier,0.0160963583433,-0.00610945051098,0.0373449429095,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MQSplus,Add extended S beyond Q,RPS,0.00686164052153,-0.00141738069129,0.014784853775,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MSplus,MQSplus,Add Q beyond extended S,log_loss,-0.00165384778499,-0.0271097035347,0.0242453960737,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MSplus,MQSplus,Add Q beyond extended S,Brier,-0.00028923599225,-0.0171380440658,0.0162657527818,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MSplus,MQSplus,Add Q beyond extended S,RPS,-0.000373520785245,-0.00472982306357,0.00437948771349,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MSplus,Extended S versus Q,log_loss,0.0181137649824,-0.0281129857859,0.0655546011864,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MSplus,Extended S versus Q,Brier,0.0163855943355,-0.0130864926793,0.0449232837437,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MQ,MSplus,Extended S versus Q,RPS,0.00723516130678,-0.0019715940217,0.016964821479,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLEQ,MLEQSplus,Add extended S given L/E/Q,log_loss,0.0115717259938,-0.0172527239261,0.0391689499304,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLEQ,MLEQSplus,Add extended S given L/E/Q,Brier,0.00242898004679,-0.0152348691146,0.019968501524,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLEQ,MLEQSplus,Add extended S given L/E/Q,RPS,0.00155580609928,-0.00490667301898,0.00790901362918,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLESplus,MLEQSplus,Add Q given L/E/S,log_loss,-0.000256286142548,-0.026625774665,0.0270037447515,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLESplus,MLEQSplus,Add Q given L/E/S,Brier,0.000759002678956,-0.0183189127725,0.018318847169,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLESplus,MLEQSplus,Add Q given L/E/S,RPS,-0.000520407494845,-0.00560798351672,0.00453987898796,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLEQ,MLESplus,Extended S versus Q given L/E,log_loss,0.0118280121363,-0.0280612787445,0.0536224609006,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLEQ,MLESplus,Extended S versus Q given L/E,Brier,0.00166997736783,-0.0241767905175,0.0275847482598,Conditional bootstrap of fixed OOF losses; no refitting
+N1,MN_L2,MLEQ,MLESplus,Extended S versus Q given L/E,RPS,0.00207621359412,-0.00693253953877,0.0108988171981,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MQS,Add core S beyond Q,log_loss,0.035078490794,-0.00124542974574,0.070067792625,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MQS,Add core S beyond Q,Brier,0.0223425520289,0.000480747242889,0.0425364236086,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MQS,Add core S beyond Q,RPS,0.00849070269602,0.00023339476758,0.0162895429132,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MS,MQS,Add Q beyond core S,log_loss,0.00213996250866,-0.0179488250273,0.0210027029939,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MS,MQS,Add Q beyond core S,Brier,0.002522533347,-0.0103443843353,0.0158678144955,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MS,MQS,Add Q beyond core S,RPS,0.000447791626085,-0.00388378924359,0.00482150089026,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MS,Core S versus Q,log_loss,0.0329385282854,-0.00712129704246,0.074261085762,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MS,Core S versus Q,Brier,0.0198200186819,-0.00523983085788,0.0447283157593,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MS,Core S versus Q,RPS,0.00804291106993,-0.00108332862365,0.0176891658304,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MQSplus,Add extended S beyond Q,log_loss,0.0319121997308,-0.00837992503687,0.0738907970492,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MQSplus,Add extended S beyond Q,Brier,0.0210485725428,-0.00274346336251,0.0442038300834,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MQSplus,Add extended S beyond Q,RPS,0.0078723821428,-0.00103370660483,0.0164637798575,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MSplus,MQSplus,Add Q beyond extended S,log_loss,0.00283184910206,-0.0170694459305,0.0229553067854,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MSplus,MQSplus,Add Q beyond extended S,Brier,0.00249537384154,-0.0112917859088,0.0165193530793,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MSplus,MQSplus,Add Q beyond extended S,RPS,0.000748076771716,-0.00351491315488,0.00482099650454,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MSplus,Extended S versus Q,log_loss,0.0290803506287,-0.0150320284495,0.0738205860243,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MSplus,Extended S versus Q,Brier,0.0185531987012,-0.0100949304336,0.0462428685672,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MQ,MSplus,Extended S versus Q,RPS,0.00712430537108,-0.00321068843084,0.01760929136,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLEQ,MLEQSplus,Add extended S given L/E/Q,log_loss,0.0172781097221,-0.00888803508165,0.0433363559803,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLEQ,MLEQSplus,Add extended S given L/E/Q,Brier,0.00939641413904,-0.0074040465439,0.0266923989972,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLEQ,MLEQSplus,Add extended S given L/E/Q,RPS,0.00440811315073,-0.00210726140884,0.0106838171216,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLESplus,MLEQSplus,Add Q given L/E/S,log_loss,0.00411989464621,-0.0171444192859,0.0249015602708,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLESplus,MLEQSplus,Add Q given L/E/S,Brier,0.00332455015798,-0.00962585337082,0.0165183817269,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLESplus,MLEQSplus,Add Q given L/E/S,RPS,0.000956853631002,-0.0032737096418,0.0053772507002,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLEQ,MLESplus,Extended S versus Q given L/E,log_loss,0.0131582150759,-0.0199892711736,0.0479560640827,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLEQ,MLESplus,Extended S versus Q given L/E,Brier,0.00607186398106,-0.0166560344281,0.0287017668001,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PO,MLEQ,MLESplus,Extended S versus Q given L/E,RPS,0.00345125951973,-0.00451990188839,0.0112398628442,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MQS,Add core S beyond Q,log_loss,0.0228981861558,-0.0133506134451,0.0582192067458,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MQS,Add core S beyond Q,Brier,0.0185022305023,-0.00293493594411,0.0398906322121,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MQS,Add core S beyond Q,RPS,0.0076758700587,-0.000433288284164,0.0157480686158,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MS,MQS,Add Q beyond core S,log_loss,0.00167776418053,-0.0176121847467,0.0204152375467,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MS,MQS,Add Q beyond core S,Brier,0.00254132026348,-0.00963531493561,0.0149297141687,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MS,MQS,Add Q beyond core S,RPS,0.000492743873813,-0.00386243486437,0.0048839246627,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MS,Core S versus Q,log_loss,0.0212204219753,-0.0204395079217,0.0601822927432,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MS,Core S versus Q,Brier,0.0159609102389,-0.010429293174,0.0421371306049,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MS,Core S versus Q,RPS,0.00718312618489,-0.00241667808011,0.0165513869487,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MQSplus,Add extended S beyond Q,log_loss,0.0189313887122,-0.0240921008194,0.0568975108608,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MQSplus,Add extended S beyond Q,Brier,0.0177651926993,-0.00751942067984,0.0411867322705,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MQSplus,Add extended S beyond Q,RPS,0.00730667569212,-0.00200025347448,0.0164751249424,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MSplus,MQSplus,Add Q beyond extended S,log_loss,0.00209368712217,-0.0169751965884,0.0212317717381,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MSplus,MQSplus,Add Q beyond extended S,Brier,0.00221305607908,-0.0105268581219,0.0150415298937,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MSplus,MQSplus,Add Q beyond extended S,RPS,0.00072550484206,-0.00361517934364,0.00495209519554,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MSplus,Extended S versus Q,log_loss,0.01683770159,-0.0330367108365,0.0638274101439,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MSplus,Extended S versus Q,Brier,0.0155521366202,-0.0148518056405,0.0443577072259,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MQ,MSplus,Extended S versus Q,RPS,0.00658117085006,-0.0044457655599,0.0167103746478,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLEQ,MLEQSplus,Add extended S given L/E/Q,log_loss,0.00410147669265,-0.0239203150929,0.0306206661134,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLEQ,MLEQSplus,Add extended S given L/E/Q,Brier,0.00631188705388,-0.0110550164157,0.0239350573454,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLEQ,MLEQSplus,Add extended S given L/E/Q,RPS,0.00386981852192,-0.00185938003231,0.0100181210232,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLESplus,MLEQSplus,Add Q given L/E/S,log_loss,0.0033370615329,-0.017038238148,0.0238162762497,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLESplus,MLEQSplus,Add Q given L/E/S,Brier,0.00281377273957,-0.0097789571609,0.0152292499293,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLESplus,MLEQSplus,Add Q given L/E/S,RPS,0.000848408492912,-0.00361747695292,0.00511289736565,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLEQ,MLESplus,Extended S versus Q given L/E,log_loss,0.000764415159756,-0.0359805740693,0.0345671238231,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLEQ,MLESplus,Extended S versus Q given L/E,Brier,0.0034981143143,-0.0195181702978,0.0275247812233,Conditional bootstrap of fixed OOF losses; no refitting
+N1,PPO,MLEQ,MLESplus,Extended S versus Q given L/E,RPS,0.00302141002901,-0.00501181832433,0.0103761472999,Conditional bootstrap of fixed OOF losses; no refitting
