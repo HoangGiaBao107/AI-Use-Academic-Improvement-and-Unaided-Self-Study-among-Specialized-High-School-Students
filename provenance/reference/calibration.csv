@@ -1,0 +1,5 @@
+scenario,outcome,model,n,calibration_intercept,calibration_slope,status
+all,N1,CQ,323,0.2252708306988583,0.5578924634331514,"Descriptive OOF fit; ideal intercept 0, slope 1"
+all,N1,CS,323,0.0897593362685688,0.8247771733005911,"Descriptive OOF fit; ideal intercept 0, slope 1"
+all,N3,CQ,323,-0.3020025256829489,0.3754712363301766,"Descriptive OOF fit; ideal intercept 0, slope 1"
+all,N3,CS,323,-0.2295053330262393,0.5106796689775994,"Descriptive OOF fit; ideal intercept 0, slope 1"
